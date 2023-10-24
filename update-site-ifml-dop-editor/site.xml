@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.ifml.editor.feature_1.4.0.202309151046.jar" id="org.ifml.editor.feature" version="1.4.0.202309151046">
+      <category name="IFML Editor"/>
+   </feature>
+   <feature url="features/org.rse.ifml.dop.extension.feature_2.0.0.202309151046.jar" id="org.rse.ifml.dop.extension.feature" version="2.0.0.202309151046">
+      <category name="DOP Extension"/>
+   </feature>
+   <category-def name="IFML Editor" label="IFML Editor"/>
+   <category-def name="DOP Extension" label="DOP Extension"/>
+</site>

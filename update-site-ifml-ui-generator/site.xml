@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ifml.ui.generator.feature_2.1.0.202304051143.jar" id="ifml.ui.generator.feature" version="2.1.0.202304051143">
+      <category name="IFML UI Generator"/>
+   </feature>
+   <category-def name="IFML UI Generator" label="IFML UI Generator">
+      <description>
+         UI Generator from IFML Model.
+      </description>
+   </category-def>
+</site>
