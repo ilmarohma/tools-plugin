@@ -4,10 +4,6 @@
 
 This tool is a part of Prices-IDE, a web application development framework built for Software Product Line Engineering (SPLE). 
 
-
-## Table of Contents
-[[_TOC_]]
-
 ## Getting Started
 
 ### Prerequisites
