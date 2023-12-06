@@ -10,9 +10,9 @@ This tool is a part of Prices-IDE, a web application development framework built
 
 Listed below are the requirements that need to be downloaded or installed before we can run the IFMLReGen. 
 
-- [ ] [Java 11]( https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
-- [ ] [Eclipse Modeling Tools 2020-12](https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-modeling-tools)
-- [ ] [Acceleo 3.7](http://download.eclipse.org/acceleo/updates/releases/3.7) 
+- [Java 11]( https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
+- [Eclipse Modeling Tools 2020-12](https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-modeling-tools)
+- [Acceleo 3.7](http://download.eclipse.org/acceleo/updates/releases/3.7) 
 
 ### Plugin Installation
 
